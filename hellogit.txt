@@ -1,0 +1,10 @@
+Hello git BC10
+
+git remote: Liên kết source code local với repo trên Git (Chỉ chạy lần đầu)
+
+git init: Chỉ tạo một một lần đầu tiên để có thể sử dụng được git cho source code
+
+Tập hợp cú pháp push file lên git:
+-   Bước 1: git status
+-   Bước 2: git add (git add * & git add .)
+-   Bước 3: git commit
